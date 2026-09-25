@@ -4,7 +4,7 @@ A simple web app for tracking daily habits. Create an account, add habits, and t
 
 **Live app:** (https://rainbow-baklava-d725b7.netlify.app/)
 **Demo video:** (https://youtu.be/uqrqqIjLYmQ)
-
+**Repository Link:** (https://github.com/romanier/eng4952_buildsoftware_rr/tree/main)
 ## What the app does
 
 - Register, log in, and log out (Supabase Auth)
