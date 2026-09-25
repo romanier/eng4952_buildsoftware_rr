@@ -2,7 +2,7 @@
 
 A simple web app for tracking daily habits. Create an account, add habits, and tick off each day of the week. Each habit shows its current streak.
 
-**Live app:** https://YOUR-SITE.netlify.app
+**Live app:** [https://YOUR-SITE.netlify.app](https://rainbow-baklava-d725b7.netlify.app/)
 **Demo video:** https://youtu.be/YOUR-VIDEO-ID
 
 ## What the app does
